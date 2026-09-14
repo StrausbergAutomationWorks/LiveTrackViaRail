@@ -1,0 +1,16 @@
+{
+  "domain": "live_track_via_rail",
+  "name": "Live Track VIA Rail",
+  "codeowners": [
+    "@LeeS773-prog"
+  ],
+  "config_flow": true,
+  "documentation": "https://github.com/StrausbergAutomationWorks/LiveTrackViaRail",
+  "integration_type": "service",
+  "iot_class": "cloud_polling",
+  "issue_tracker": "https://github.com/StrausbergAutomationWorks/LiveTrackViaRail/issues",
+  "requirements": [
+    "saw-amtraker-client>=0.2.0"
+  ],
+  "version": "0.1.0"
+}
